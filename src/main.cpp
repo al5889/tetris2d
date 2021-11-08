@@ -1,8 +1,6 @@
 #include <ncurses.h>
 
 #include "game.h"
-
-
 int main(int argc, char const *argv[]) {
     int input;
     Game game;
